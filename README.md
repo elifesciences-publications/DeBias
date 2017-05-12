@@ -1,4 +1,9 @@
 ![Alt Text](DeBiasLogo.PNG?raw=true "DeBias")
+
+-------------
+
+### This code is associated with the paper "Decoupling global biases and local interactions between cell biological variables". eLife, 2017. https://elifesciences.org/content/6/e22323 
+
 -------------
 February 1st, 2017
 
